@@ -6,7 +6,4 @@
 * Jon Brohauge can push to this repo
 * Lars J. can push to this repo
 * Tue Wennerberg can push to this repo
-* YOUR_NAME can push to this repo
-* YOUR_NAME can push to this repo
-* YOUR_NAME can push to this repo
-* YOUR_NAME can push to this repo
+* [Add yourself]
