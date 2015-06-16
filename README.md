@@ -1,7 +1,7 @@
  
 [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-* Jesper Wermuth can push to this repo
+* Jesper Wermuth can push to this repo [skriv til Jesper](mailto:jwermuth@gmail.com)
 * Nikolaj can push as owner to this repo
 * Jon Brohauge can push to this repo
 * Lars J. can push to this repo
