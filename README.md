@@ -7,3 +7,5 @@
 * Lars J. can push to this repo
 * Tue Wennerberg can push to this repo
 * [Add yourself]
+
+Uuuuuh - theres a tools dir where we can share scripts'n'stuff
